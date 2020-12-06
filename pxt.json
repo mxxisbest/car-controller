@@ -1,0 +1,22 @@
+{
+    "name": "Car-Controller",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "GHBit": "github:lzty634158/ghbit#0a193a12f05f46314c0168c4600dc7fe75b4a608",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
